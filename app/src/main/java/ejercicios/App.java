@@ -5,7 +5,7 @@ package ejercicios;
 
 public class App {
     public String getGreeting() {
-        return "Hello Mundo 1";
+        return "Hola Mundo 2";
     }
 
     public static void main(String[] args) {
